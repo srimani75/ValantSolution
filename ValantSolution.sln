@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryAPI", "InventoryAPI\InventoryAPI.csproj", "{3F5F1436-7720-4D4E-A32B-E531A316742F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryAPITests", "InventoryAPITests\InventoryAPITests.csproj", "{2A07B409-C6C9-4F40-A8FF-CBC8048201FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageLoader", "ImageLoader\ImageLoader.csproj", "{9C74ACB4-3D7D-4AD1-B857-9976E6FB5E38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F5F1436-7720-4D4E-A32B-E531A316742F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F5F1436-7720-4D4E-A32B-E531A316742F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F5F1436-7720-4D4E-A32B-E531A316742F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F5F1436-7720-4D4E-A32B-E531A316742F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A07B409-C6C9-4F40-A8FF-CBC8048201FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A07B409-C6C9-4F40-A8FF-CBC8048201FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A07B409-C6C9-4F40-A8FF-CBC8048201FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A07B409-C6C9-4F40-A8FF-CBC8048201FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C74ACB4-3D7D-4AD1-B857-9976E6FB5E38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C74ACB4-3D7D-4AD1-B857-9976E6FB5E38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C74ACB4-3D7D-4AD1-B857-9976E6FB5E38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C74ACB4-3D7D-4AD1-B857-9976E6FB5E38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
